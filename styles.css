@@ -1,1 +1,28 @@
-/*  your css code here. If applicable */
+.hero{
+	display:flex;
+	justify-content:center;
+	align-items:center;
+}
+img{
+	width:400px;
+	object-fit:cover;
+	height:300px;
+}
+button{
+	position:relative;
+	left:80px;
+	background-color:red;
+	border:none;
+	width:100px;
+	height:25px;
+	color:white;
+	border-radius:2px;
+}
+P{
+	margin:20px;
+	padding:0px
+	
+}
+h1{
+	margin-left:20px;
+}
